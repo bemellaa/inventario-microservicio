@@ -33,3 +33,9 @@ Se utilizarán los siguientes prefijos para mantener una trazabilidad clara:
 - Java
 - Spring Boot
 - Maven
+
+## Declaración de uso de IA
+Para el desarrollo de este encargo, se utilizó asistencia de Inteligencia Artificial (Gemini) con el objetivo de estructurar los pasos del flujo de trabajo, redactar la plantilla base de este documento y generar el archivo de configuración YAML para GitHub Actions. Todas las ejecuciones de comandos, resolución de conflictos (merge conflicts) y decisiones de arquitectura de ramas fueron realizadas y validadas de forma manual.
+
+## Reflexión Individual
+("Al aplicar GitFlow me di cuenta de la importancia de serparar el codigo en distintas ramas para evitar que el codigo se caiga o evitar codigos graves, ademas estuve investigando que muchas empresas utilizan GitFlow lo que de a poco nos mentaliza para el dia de mañana estar preparados para la produccion de codigos. Ademas la automatizacion con Github Actions me demostro lo vital e importante es tener una herramienta que valide el codigo automaticamente antes de integrarlo.")
