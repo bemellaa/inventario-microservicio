@@ -28,3 +28,8 @@ Se utilizarán los siguientes prefijos para mantener una trazabilidad clara:
 - Se debe abrir un Pull Request (PR) hacia `develop`. 
 - Una vez aprobado e integrado en `develop`, los cambios se preparan para su posterior paso a `main`.
 - Los errores críticos en `main` se resuelven creando una rama `hotfix/` desde `main`, y luego se hace PR tanto a `main` como a `develop`.
+
+## Tecnologías Utilizadas
+- Java
+- Spring Boot
+- Maven
